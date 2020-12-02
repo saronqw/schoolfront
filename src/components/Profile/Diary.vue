@@ -97,9 +97,9 @@ div.diary {
 }
 
 table {
-  width: 200px;
-  /*width: 26%;*/
-  /*min-width: 250px;*/
+  /*width: 200px;*/
+  width: 26%;
+  min-width: 250px;
   border-collapse: collapse;
   border-spacing: 0;
   border: 2px solid white;
